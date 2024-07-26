@@ -1,0 +1,14 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Tristan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
